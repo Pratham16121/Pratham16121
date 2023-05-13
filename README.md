@@ -1,5 +1,8 @@
-# Hi, I'm Pratham Goel! 👋
+# Hello, I'm Pratham Goel! 👋
 
+Welcome to my Github profile! I'm a passionate software developer with experience in building web applications, games, and software solutions using a variety of programming languages and technologies. I'm always eager to take on new challenges and learn new skills.
+
+Let's connect and collaborate on something amazing! 🤝
 ## 🚀 About Me
 
 As a natural problem solver, I am passionate about finding creative solutions to complex challenges. Whether working independently or in a team, I take pride in delivering innovative approaches that exceed expectations and drive positive results. 💡
@@ -32,3 +35,18 @@ As a natural problem solver, I am passionate about finding creative solutions to
 - 🚗 **Two Car Game** (09/2019) <br>
   Utilizing C++ graphic files, I developed a car game with obstacles and points for players to accumulate. The game also features graphics for an immersive experience. <br>
   [Link to Two Cars](https://github.com/pratham16121/Two-Cars)
+
+
+## Research Papers 📚
+
+Here's a list of my published research papers:
+
+- 📈 Telecommunication Stocks Prediction Using Long Short-Term Memory Model Neural Network ([link](https://link.springer.com/chapter/10.1007/978-3-031-21750-0_26))
+
+
+## Contact Me 📱
+
+Connect with me on:
+
+[<img src="https://img.icons8.com/color/32/000000/linkedin.png"/>](https://www.linkedin.com/in/pratham16121/)
+[<img src="https://img.icons8.com/ios-filled/30/000000/github.png"/>](https://github.com/Pratham16121/)
