@@ -8,24 +8,15 @@ As a natural problem solver, I am passionate about finding creative solutions to
 
 Here are some of the skills and technologies I'm proficient in:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding: 5px;">
-    <ul>
-      <li>Ruby on Rails <img src="https://img.icons8.com/color/24/000000/ruby-programming-language.png"/></li>
-      <li>Python <img src="https://img.icons8.com/color/24/000000/python.png"/></li>
-      <li>C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/></li>
-      <li>Data Structures and Algorithms 🧬</li>
-    </ul>
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <ul>
-      <li>MySQL <img src="https://img.icons8.com/fluency/24/000000/mysql-logo.png"/></li>
-      <li>PostgreSQL <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/></li>
-      <li>Django <img src="https://img.icons8.com/color/24/000000/django.png"/></li>
-      <li>Web Development 🌐</li>
-    </ul>
-  </div>
-</div>
+| Backend               | Frontend                |
+|-----------------------|-------------------------|
+| Ruby on Rails <br><img src="https://img.icons8.com/color/24/000000/ruby-programming-language.png"/> | Web Development 🌐 |
+| Python <br><img src="https://img.icons8.com/color/24/000000/python.png"/>   |                          |
+| C++  <br><img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>    |                          |
+| MySQL <br><img src="https://img.icons8.com/fluency/24/000000/mysql-logo.png"/>   |                          |
+| PostgreSQL <br><img src="https://img.icons8.com/color/24/000000/postgreesql.png"/>  |                          |
+| Django <br><img src="https://img.icons8.com/color/24/000000/django.png"/>   |                          |
+| Data Structures and Algorithms 🧬  |                          |
 
 ## Projects
 
