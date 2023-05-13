@@ -8,12 +8,12 @@ As a natural problem solver, I am passionate about finding creative solutions to
 
 Here are some of the skills and technologies I'm proficient in:
 
-- Ruby on Rails ![Ruby on Rails logo](https://img.icons8.com/color/48/000000/ruby-on-rails.png)
-- Python ![Python logo](https://img.icons8.com/color/48/000000/python.png)
-- C++ ![C++ logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-- MySQL ![MySQL logo](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
-- PostgreSQL ![PostgreSQL logo](https://img.icons8.com/color/48/000000/postgreesql.png)
-- Django ![Django logo](https://img.icons8.com/color/48/000000/django.png)
+- Ruby on Rails <img src="https://img.icons8.com/color/24/000000/ruby-on-rails.png"/>
+- Python <img src="https://img.icons8.com/color/24/000000/python.png"/>
+- C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>
+- MySQL <img src="https://img.icons8.com/fluency/24/000000/mysql-logo.png"/>
+- PostgreSQL <img src="https://img.icons8.com/color/24/000000/postgreesql.png"/>
+- Django <img src="https://img.icons8.com/color/24/000000/django.png"/>
 - Data Structures and Algorithms 🧬
 - Web Development 🌐
 
