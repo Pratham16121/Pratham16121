@@ -1,12 +1,21 @@
-# Hi, I'm [Pratham Goel]! 👋
+# Hi, I'm Pratham Goel! 👋
 
 ## About Me
 
-A brief introduction about yourself goes here. You can talk about your skills, interests, or anything else that you would like to share.
+As a natural problem solver, I am passionate about finding creative solutions to complex challenges. Whether working independently or in a team, I take pride in delivering innovative approaches that exceed expectations and drive positive results. 💡
 
 ## Skills
 
-List your skills here. You can include programming languages, frameworks, tools, or any other skills that you have.
+Here are some of the skills and technologies I'm proficient in:
+
+- Ruby on Rails ![Ruby on Rails logo](https://img.icons8.com/color/48/000000/ruby-on-rails.png)
+- Python ![Python logo](https://img.icons8.com/color/48/000000/python.png)
+- C++ ![C++ logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+- MySQL ![MySQL logo](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+- PostgreSQL ![PostgreSQL logo](https://img.icons8.com/color/48/000000/postgreesql.png)
+- Django ![Django logo](https://img.icons8.com/color/48/000000/django.png)
+- Data Structures and Algorithms 🧬
+- Web Development 🌐
 
 ## Projects
 
