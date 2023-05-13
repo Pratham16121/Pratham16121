@@ -8,7 +8,7 @@ As a natural problem solver, I am passionate about finding creative solutions to
 
 Here are some of the skills and technologies I'm proficient in:
 
-- Ruby on Rails <img src="https://img.icons8.com/color/24/000000/ruby-on-rails.png"/>
+- Ruby on Rails <img src="https://img.icons8.com/color/24/000000/ruby-programming-language.png"/>
 - Python <img src="https://img.icons8.com/color/24/000000/python.png"/>
 - C++ <img src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png"/>
 - MySQL <img src="https://img.icons8.com/fluency/24/000000/mysql-logo.png"/>
