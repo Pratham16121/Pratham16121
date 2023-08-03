@@ -25,7 +25,7 @@ As a natural problem solver, I am passionate about finding creative solutions to
 
 ## 💼 Projects
 
-- 🅿️ **Parking Lot Management System** (03/2019) <br>
+- 🅿️ **Parking Lot Management System** (03/2023) <br>
   Developed a Parking Lot Management System using Ruby on Rails. Efficiently manages vehicle parking with features like vehicle entry, exit, and finding available parking spaces. Generates tickets and calculates parking charges based on the duration of stay. Utilizes data structures for efficient slot allocation and retrieval. Views implemented with Ruby on Rails' view templates. <br>
   [Link to Parking Lot](https://github.com/pratham16121/parking-lot)
 
