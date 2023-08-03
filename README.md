@@ -42,14 +42,14 @@ As a natural problem solver, I am passionate about finding creative solutions to
   [Link to Two Cars](https://github.com/pratham16121/Two-Cars)
 
 
-## Research Papers 📚
+## 📚 Research Papers 
 
 Here's a list of my published research papers:
 
 - 📈 Telecommunication Stocks Prediction Using Long Short-Term Memory Model Neural Network ([link](https://link.springer.com/chapter/10.1007/978-3-031-21750-0_26))
 
 
-## Contact Me 📱
+## 📱 Contact Me
 
 Connect with me on:
 
