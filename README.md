@@ -14,7 +14,9 @@ As a natural problem solver, I am passionate about finding creative solutions to
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-black?style=for-the-badge&logo=data" alt="Data Structures and Algorithms"/>
   <img src="https://img.shields.io/badge/Web%20Development-teal?style=for-the-badge&logo=web" alt="Web Development"/>
 </div>
