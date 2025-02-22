@@ -37,14 +37,14 @@ As a natural problem solver, I am passionate about finding creative solutions to
 - 🎮 **Adventure Game** (10/2020) <br>
   Utilized knowledge of Data Structures and developed a text-based adventure game in C++, where users perform operations through commands and clues.
 
-- 🚗 **Two Car Game** (09/2019) <br>
-  Utilizing C++ graphic files, I developed a car game with obstacles and points for players to accumulate. The game also features graphics for an immersive experience. <br>
-  [Link to Two Cars](https://github.com/pratham16121/Two-Cars)
-
 - ❌⭕ **Tic Tac Toe** (08/2020) <br>
   Developed a console-based Tic Tac Toe game in C++ with an interactive UI, allowing two players to compete while tracking the game state. Implemented logic to check for win conditions dynamically. <br>
   [Link to Tic Tac Toe](https://github.com/Pratham16121/Tic-Tac-Toe) <br>
   Webinar on building Tic Tac Toe: [Tic Tac Toe Webinar](https://www.suas.ac.in/game-development-strategies/)
+
+- 🚗 **Two Car Game** (09/2019) <br>
+  Utilizing C++ graphic files, I developed a car game with obstacles and points for players to accumulate. The game also features graphics for an immersive experience. <br>
+  [Link to Two Cars](https://github.com/pratham16121/Two-Cars)
 
 
 ## 📚 Research Papers 
