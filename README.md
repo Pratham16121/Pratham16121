@@ -44,7 +44,7 @@ As a natural problem solver, I am passionate about finding creative solutions to
 - ❌⭕ **Tic Tac Toe** (08/2020) <br>
   Developed a console-based Tic Tac Toe game in C++ with an interactive UI, allowing two players to compete while tracking the game state. Implemented logic to check for win conditions dynamically. <br>
   [Link to Tic Tac Toe](https://github.com/Pratham16121/Tic-Tac-Toe) <br>
-  Webinar on building Tic Tac Toe: [Tic Tac Toe Class](https://www.suas.ac.in/game-development-strategies/)
+  Webinar on building Tic Tac Toe: [Tic Tac Toe Webinar](https://www.suas.ac.in/game-development-strategies/)
 
 
 ## 📚 Research Papers 
