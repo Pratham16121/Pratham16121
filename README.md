@@ -58,5 +58,5 @@ Here's a list of my published research papers:
 
 ## 📱 Contact Me
 
-[<img src="https://img.icons8.com/color/32/000000/linkedin.png"/>](https://www.linkedin.com/in/pratham16121/)
+[<img src="https://img.icons8.com/color/32/000000/linkedin.png"/>](https://www.linkedin.com/in/prathamgoel16121/)
 [<img src="https://img.icons8.com/ios-filled/30/000000/github.png" style="border: 2px solid white; border-radius: 50%; background-color: #333;"/>](https://github.com/Pratham16121/)
